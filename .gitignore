@@ -1,0 +1,8 @@
+# Ignore all Java compiled class files
+*.class
+
+# (Optional) ignore Java build folders
+bin/
+out/
+build/
+target/
